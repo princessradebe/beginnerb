@@ -26,4 +26,4 @@ while log_in_status == False:
             complete = False
             continue
 if complete == True:
-    print("Welcome!");
+    print("Welcome to the GitHub remote version!"); #Optimized the print function
